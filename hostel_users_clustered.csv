@@ -1,0 +1,508 @@
+ID,Name,Gender,Major,Contact,Area,Monthly_Rent,Rent_Label,Food_Preference,Room_Capacity,Sleep,Cleanliness,Social,Noise
+2000,Vivaan Kamath,Male,ECE,+91 6958682846,Indiranagar,4385,Rs.3K-5K,Eggetarian,3,2,10,1,1
+2001,Rajesh Dey,Male,CSE,+91 8410529190,Indiranagar,13805,Rs.12K-20K,Non-Vegetarian,3,1,7,9,7
+2002,Nikhil Pandey,Male,CSE,+91 6398340369,Whitefield,3735,Rs.3K-5K,Non-Vegetarian,3,1,9,9,4
+2003,Kiara Bose,Female,Mech,+91 9562265906,Marathahalli,10364,Rs.8K-12K,Vegetarian,3,1,8,2,1
+2004,Siddharth Kamath,Male,Civil,+91 8730243887,HSR Layout,6516,Rs.5K-8K,Non-Vegetarian,1,1,7,9,5
+2005,Ankita Bose,Female,ECE,+91 8940395823,HSR Layout,3469,Rs.3K-5K,Vegetarian,2,10,3,2,5
+2006,Nisha Chatterjee,Female,Civil,+91 9799685197,Marathahalli,13170,Rs.12K-20K,Non-Vegetarian,1,10,5,10,9
+2007,Renu Dubey,Female,Mech,+91 6941975480,Indiranagar,12744,Rs.12K-20K,Vegetarian,1,10,2,10,10
+2008,Geeta Dey,Female,Civil,+91 8272528809,HSR Layout,4393,Rs.3K-5K,Eggetarian,1,2,6,8,7
+2009,Shivam Hegde,Male,IT,+91 9272602734,Indiranagar,4782,Rs.3K-5K,Eggetarian,2,8,3,8,7
+2010,Saanvi Reddy,Female,Mech,+91 9774081712,HSR Layout,5237,Rs.5K-8K,Vegetarian,3,1,10,1,3
+2011,Mohan Banerjee,Male,IT,+91 6709214891,HSR Layout,19900,Rs.12K-20K,Vegetarian,3,9,3,9,9
+2012,Myra Bhat,Female,ECE,+91 6274989148,HSR Layout,4204,Rs.3K-5K,Eggetarian,1,7,1,10,7
+2013,Raj Singh,Male,IT,+91 7022222125,HSR Layout,13755,Rs.12K-20K,Eggetarian,1,8,6,4,2
+2014,Rekha Chauhan,Female,Civil,+91 8005855667,Marathahalli,4379,Rs.3K-5K,Eggetarian,3,1,10,3,2
+2015,Yash Iyer,Male,ECE,+91 8303329764,Whitefield,6728,Rs.5K-8K,Vegetarian,2,8,3,4,5
+2016,Sai Bhat,Male,ECE,+91 7745535098,Whitefield,13751,Rs.12K-20K,Non-Vegetarian,1,9,1,9,9
+2017,Divya Chauhan,Female,AI&DS,+91 9137496438,BTM Layout,13268,Rs.12K-20K,Vegetarian,2,8,5,10,7
+2018,Vihaan Sen,Male,Civil,+91 8159725924,BTM Layout,5232,Rs.5K-8K,Eggetarian,1,7,5,8,8
+2019,Sandeep Dey,Male,CSE,+91 8660223333,Koramangala,17385,Rs.12K-20K,Eggetarian,3,2,7,9,6
+2020,Riya Naidu,Female,Civil,+91 7357970698,Koramangala,3938,Rs.3K-5K,Eggetarian,3,1,8,3,2
+2021,Pari Bhat,Female,Mech,+91 7224011538,Indiranagar,18830,Rs.12K-20K,Eggetarian,3,1,8,9,4
+2022,Pranav Reddy,Male,CSE,+91 9188655387,BTM Layout,6115,Rs.5K-8K,Non-Vegetarian,3,10,3,8,9
+2023,Aadhya Kumar,Female,AI&DS,+91 7819244083,HSR Layout,3007,Rs.3K-5K,Non-Vegetarian,1,2,9,9,7
+2024,Arjun Joshi,Male,IT,+91 6154739678,HSR Layout,6760,Rs.5K-8K,Vegetarian,1,3,6,8,5
+2025,Akash Bose,Male,Civil,+91 8665720874,Marathahalli,5969,Rs.5K-8K,Vegetarian,1,9,4,3,4
+2026,Aman Rao,Male,AI&DS,+91 6464267175,Whitefield,4758,Rs.3K-5K,Non-Vegetarian,1,8,3,9,8
+2027,Abhishek Pandey,Male,Mech,+91 9712367625,Koramangala,9438,Rs.8K-12K,Eggetarian,3,9,3,1,3
+2028,Ananya Mehta,Female,IT,+91 7866437132,HSR Layout,9787,Rs.8K-12K,Eggetarian,3,2,8,2,1
+2029,Amit Ghosh,Male,AI&DS,+91 9089928308,Marathahalli,6491,Rs.5K-8K,Non-Vegetarian,1,3,6,9,6
+2030,Neha Dubey,Female,AI&DS,+91 7269829408,BTM Layout,5785,Rs.5K-8K,Non-Vegetarian,3,9,7,3,4
+2031,Harsh Shetty,Male,ECE,+91 7846355528,BTM Layout,9904,Rs.8K-12K,Non-Vegetarian,2,10,4,10,8
+2032,Usha Mitra,Female,Mech,+91 6401094954,Indiranagar,8920,Rs.8K-12K,Vegetarian,1,1,8,2,3
+2033,Suresh Yadav,Male,AI&DS,+91 8472487690,Indiranagar,16049,Rs.12K-20K,Non-Vegetarian,1,9,1,8,10
+2034,Aadhya Bose,Female,ECE,+91 9940503685,Koramangala,13092,Rs.12K-20K,Non-Vegetarian,3,4,9,9,7
+2035,Pallavi Hegde,Female,ECE,+91 9607183629,Marathahalli,11136,Rs.8K-12K,Eggetarian,2,8,4,8,9
+2036,Neha Ghosh,Female,CSE,+91 6594312071,Indiranagar,6568,Rs.5K-8K,Eggetarian,1,8,4,9,9
+2037,Aadhya Pillai,Female,Civil,+91 7672790155,BTM Layout,4754,Rs.3K-5K,Eggetarian,2,9,5,3,4
+2038,Shweta Ghosh,Female,IT,+91 9856070374,Indiranagar,13797,Rs.12K-20K,Non-Vegetarian,2,9,6,3,4
+2039,Riya Mitra,Female,IT,+91 6115820025,Whitefield,3171,Rs.3K-5K,Eggetarian,2,8,2,8,9
+2040,Suresh Mishra,Male,Mech,+91 9269456693,Whitefield,11080,Rs.8K-12K,Non-Vegetarian,2,1,7,3,3
+2041,Kavya Singh,Female,AI&DS,+91 6172907376,Koramangala,5816,Rs.5K-8K,Vegetarian,3,8,2,9,7
+2042,Suresh Hegde,Male,Mech,+91 6720648887,BTM Layout,4592,Rs.3K-5K,Vegetarian,2,3,7,2,3
+2043,Asha Iyer,Female,CSE,+91 8543040948,Marathahalli,5417,Rs.5K-8K,Eggetarian,2,2,7,2,3
+2044,Pari Mukherjee,Female,AI&DS,+91 7465576748,Koramangala,18736,Rs.12K-20K,Non-Vegetarian,1,9,6,2,4
+2045,Bharti Ghosh,Female,Civil,+91 7996617659,Whitefield,9320,Rs.8K-12K,Vegetarian,1,3,7,8,7
+2046,Neha Nair,Female,Civil,+91 6911047815,HSR Layout,9394,Rs.8K-12K,Non-Vegetarian,3,1,7,7,5
+2047,Jyoti Bhat,Female,AI&DS,+91 8044804330,Marathahalli,15671,Rs.12K-20K,Vegetarian,1,1,9,9,5
+2048,Preeti Bose,Female,IT,+91 7476426754,Whitefield,9441,Rs.8K-12K,Eggetarian,2,3,8,7,4
+2049,Myra Ghosh,Female,AI&DS,+91 6795212538,Indiranagar,6983,Rs.5K-8K,Non-Vegetarian,3,1,7,8,5
+2050,Diya Ghosh,Female,ECE,+91 7178158203,Koramangala,4133,Rs.3K-5K,Non-Vegetarian,3,10,4,8,7
+2051,Preeti Thakur,Female,Mech,+91 6791835934,Koramangala,11854,Rs.8K-12K,Non-Vegetarian,1,2,10,1,3
+2052,Ishaan Joshi,Male,IT,+91 7304963614,Koramangala,5485,Rs.5K-8K,Eggetarian,2,9,4,9,10
+2053,Simran Roy,Female,IT,+91 6258687184,BTM Layout,4940,Rs.3K-5K,Vegetarian,3,8,1,8,8
+2054,Rohan Sharma,Male,Civil,+91 7934898666,Marathahalli,14385,Rs.12K-20K,Vegetarian,1,3,9,7,5
+2055,Ritesh Reddy,Male,IT,+91 6965549222,Marathahalli,6088,Rs.5K-8K,Vegetarian,1,1,9,3,3
+2056,Pallavi Reddy,Female,Civil,+91 8957849462,HSR Layout,19722,Rs.12K-20K,Non-Vegetarian,3,10,3,1,4
+2057,Saanvi Kumar,Female,ECE,+91 8896089430,BTM Layout,4566,Rs.3K-5K,Eggetarian,2,1,10,3,3
+2058,Sneha Sen,Female,Civil,+91 8726379588,Whitefield,3962,Rs.3K-5K,Non-Vegetarian,2,2,6,7,6
+2059,Divya Dubey,Female,IT,+91 6157612991,Whitefield,3644,Rs.3K-5K,Non-Vegetarian,2,1,7,3,3
+2060,Dev Das,Male,Mech,+91 8674192109,Whitefield,18225,Rs.12K-20K,Vegetarian,1,1,8,8,7
+2061,Varun Rao,Male,Mech,+91 8365835550,Koramangala,12763,Rs.12K-20K,Vegetarian,1,9,4,4,3
+2062,Manju Banerjee,Female,Civil,+91 7046816259,Whitefield,6571,Rs.5K-8K,Vegetarian,3,8,3,9,9
+2063,Diya Shetty,Female,AI&DS,+91 7282287615,BTM Layout,19088,Rs.12K-20K,Vegetarian,2,10,5,4,4
+2064,Kartik Bhat,Male,IT,+91 7644847276,Indiranagar,12357,Rs.12K-20K,Non-Vegetarian,3,10,6,2,4
+2065,Rajesh Sen,Male,Mech,+91 9735334423,Koramangala,12816,Rs.12K-20K,Eggetarian,2,3,8,2,3
+2066,Manish Hegde,Male,Mech,+91 8676878743,Marathahalli,17323,Rs.12K-20K,Vegetarian,2,9,6,1,5
+2067,Kavya Kumar,Female,Civil,+91 6422809996,Marathahalli,3908,Rs.3K-5K,Vegetarian,3,1,6,8,4
+2068,Shalini Joshi,Female,ECE,+91 8281341978,Whitefield,5696,Rs.5K-8K,Vegetarian,1,8,6,2,2
+2069,Vandana Hegde,Female,AI&DS,+91 6040361651,Whitefield,10775,Rs.8K-12K,Eggetarian,1,2,9,3,2
+2070,Savita Hegde,Female,Civil,+91 9630552730,HSR Layout,6575,Rs.5K-8K,Non-Vegetarian,1,9,5,9,9
+2071,Saanvi Dubey,Female,Mech,+91 6034780500,BTM Layout,4864,Rs.3K-5K,Eggetarian,3,10,4,3,2
+2072,Rashmita Patel,Female,AI&DS,+91 6417315900,Marathahalli,3632,Rs.3K-5K,Non-Vegetarian,1,2,6,8,6
+2073,Dev Patel,Male,IT,+91 9764369596,HSR Layout,11401,Rs.8K-12K,Vegetarian,2,10,5,1,4
+2074,Lokesh Menon,Male,AI&DS,+91 9110487082,Marathahalli,19923,Rs.12K-20K,Eggetarian,2,1,7,2,3
+2075,Rashmita Hegde,Female,IT,+91 7636492037,Marathahalli,8443,Rs.8K-12K,Eggetarian,1,8,7,3,5
+2076,Chetan Rawat,Male,AI&DS,+91 7297896903,Marathahalli,12955,Rs.12K-20K,Vegetarian,1,1,10,1,1
+2077,Siddharth Rawat,Male,Mech,+91 8879716355,Marathahalli,16811,Rs.12K-20K,Eggetarian,3,9,1,9,10
+2078,Ananya Tripathi,Female,ECE,+91 7904315855,Whitefield,6485,Rs.5K-8K,Vegetarian,3,2,6,8,6
+2079,Suresh Kumar,Male,AI&DS,+91 6910987546,Marathahalli,3103,Rs.3K-5K,Non-Vegetarian,1,10,2,8,8
+2080,Raj Joshi,Male,IT,+91 6012178595,HSR Layout,5532,Rs.5K-8K,Eggetarian,2,7,1,8,7
+2081,Sandeep Mishra,Male,CSE,+91 6748381742,HSR Layout,3259,Rs.3K-5K,Eggetarian,2,3,7,2,2
+2082,Gaurav Mukherjee,Male,ECE,+91 8641863774,Koramangala,9876,Rs.8K-12K,Eggetarian,1,1,10,2,3
+2083,Pari Kumar,Female,Mech,+91 8612617557,Indiranagar,3258,Rs.3K-5K,Non-Vegetarian,3,3,8,8,7
+2084,Ravi Bose,Male,AI&DS,+91 9717261214,Indiranagar,15699,Rs.12K-20K,Vegetarian,2,3,9,8,4
+2085,Poonam Hegde,Female,Mech,+91 6655579180,Marathahalli,12549,Rs.12K-20K,Vegetarian,1,1,7,3,3
+2086,Tarun Malhotra,Male,IT,+91 8411995282,BTM Layout,10744,Rs.8K-12K,Vegetarian,2,3,6,8,6
+2087,Ishaan Banerjee,Male,ECE,+91 9639017775,Koramangala,11462,Rs.8K-12K,Eggetarian,2,2,8,2,3
+2088,Ramesh Kamath,Male,CSE,+91 6774881143,HSR Layout,11774,Rs.8K-12K,Non-Vegetarian,2,1,8,3,3
+2089,Tushar Verma,Male,CSE,+91 9204525618,BTM Layout,6540,Rs.5K-8K,Non-Vegetarian,2,2,8,8,6
+2090,Vihaan Joshi,Male,ECE,+91 9240277427,BTM Layout,4380,Rs.3K-5K,Vegetarian,2,9,6,4,4
+2091,Akash Chauhan,Male,CSE,+91 7216534332,Marathahalli,16316,Rs.12K-20K,Eggetarian,2,1,10,3,1
+2092,Nisha Patel,Female,Mech,+91 7243165953,HSR Layout,3015,Rs.3K-5K,Non-Vegetarian,3,9,4,4,5
+2093,Pari Dubey,Female,AI&DS,+91 6181686832,Whitefield,3941,Rs.3K-5K,Vegetarian,2,9,6,3,1
+2094,Priya Mitra,Female,Civil,+91 9573524070,Marathahalli,8360,Rs.8K-12K,Non-Vegetarian,1,8,5,9,7
+2095,Uma Pandey,Female,ECE,+91 7430518844,Indiranagar,4045,Rs.3K-5K,Eggetarian,1,8,3,10,8
+2096,Pranav Iyer,Male,ECE,+91 8587283948,Indiranagar,3362,Rs.3K-5K,Eggetarian,2,9,7,3,3
+2097,Manish Thakur,Male,AI&DS,+91 7300603858,HSR Layout,3720,Rs.3K-5K,Eggetarian,1,3,9,7,4
+2098,Bharti Dey,Female,IT,+91 7651339677,Whitefield,3921,Rs.3K-5K,Eggetarian,3,9,5,9,8
+2099,Naira Pandey,Female,AI&DS,+91 6362190850,BTM Layout,5160,Rs.5K-8K,Vegetarian,3,9,7,2,3
+2100,Geeta Yadav,Female,Mech,+91 8915843503,BTM Layout,4616,Rs.3K-5K,Eggetarian,3,1,8,7,7
+2101,Raj Kumar,Male,IT,+91 8850192297,Indiranagar,9270,Rs.8K-12K,Eggetarian,3,9,7,1,3
+2102,Riya Das,Female,CSE,+91 8774655465,Marathahalli,16165,Rs.12K-20K,Non-Vegetarian,1,3,7,7,6
+2103,Pooja Menon,Female,ECE,+91 6665484476,Koramangala,11458,Rs.8K-12K,Vegetarian,3,3,9,3,1
+2104,Rohan Nair,Male,AI&DS,+91 9311839873,BTM Layout,7953,Rs.5K-8K,Non-Vegetarian,1,9,4,4,5
+2105,Kavya Ghosh,Female,ECE,+91 7329154472,Whitefield,6506,Rs.5K-8K,Eggetarian,3,10,5,4,5
+2106,Dev Dey,Male,ECE,+91 9749514711,HSR Layout,4313,Rs.3K-5K,Non-Vegetarian,2,3,7,2,1
+2107,Pallavi Mukherjee,Female,ECE,+91 9569318475,Whitefield,4938,Rs.3K-5K,Vegetarian,2,1,9,7,7
+2108,Siddharth Kumar,Male,Mech,+91 6964386641,Koramangala,11812,Rs.8K-12K,Vegetarian,3,2,7,7,6
+2109,Savita Patel,Female,AI&DS,+91 8014812671,Whitefield,4855,Rs.3K-5K,Vegetarian,1,1,7,9,7
+2110,Tanvi Naidu,Female,CSE,+91 6205082311,Indiranagar,17234,Rs.12K-20K,Eggetarian,2,1,10,3,3
+2111,Varun Joshi,Male,Mech,+91 7843567009,Koramangala,8985,Rs.8K-12K,Eggetarian,2,9,1,10,9
+2112,Siddharth Banerjee,Male,CSE,+91 8730185259,Whitefield,9038,Rs.8K-12K,Eggetarian,1,1,8,7,4
+2113,Riya Gupta,Female,Mech,+91 8345111169,HSR Layout,7804,Rs.5K-8K,Non-Vegetarian,3,8,4,1,4
+2114,Aditya Iyer,Male,CSE,+91 7355473709,HSR Layout,18679,Rs.12K-20K,Eggetarian,2,1,7,8,6
+2115,Ravi Pandey,Male,Mech,+91 6534616074,HSR Layout,19286,Rs.12K-20K,Non-Vegetarian,3,10,5,2,4
+2116,Madhuri Kamath,Female,CSE,+91 9122790501,Whitefield,3881,Rs.3K-5K,Eggetarian,1,3,6,7,6
+2117,Pallavi Dey,Female,AI&DS,+91 7830154607,Indiranagar,14879,Rs.12K-20K,Non-Vegetarian,1,3,8,9,4
+2118,Sunita Mukherjee,Female,AI&DS,+91 8918046336,Indiranagar,3292,Rs.3K-5K,Eggetarian,3,9,4,1,2
+2119,Sunita Shukla,Female,IT,+91 6139093888,BTM Layout,7781,Rs.5K-8K,Non-Vegetarian,2,4,6,9,5
+2120,Neha Kamath,Female,ECE,+91 6487258103,Koramangala,7044,Rs.5K-8K,Eggetarian,2,1,9,3,2
+2121,Savita Chatterjee,Female,ECE,+91 6526723719,Indiranagar,3925,Rs.3K-5K,Vegetarian,3,9,5,3,1
+2122,Simran Rao,Female,AI&DS,+91 9047553254,Marathahalli,6480,Rs.5K-8K,Eggetarian,1,1,8,1,2
+2123,Vandana Bose,Female,ECE,+91 8628298180,Koramangala,3633,Rs.3K-5K,Non-Vegetarian,3,10,6,1,2
+2124,Gaurav Rawat,Male,AI&DS,+91 8222044336,HSR Layout,7258,Rs.5K-8K,Eggetarian,3,8,4,10,7
+2125,Harsh Rao,Male,ECE,+91 7385817349,Marathahalli,6417,Rs.5K-8K,Eggetarian,2,1,8,3,3
+2126,Kiara Mukherjee,Female,AI&DS,+91 6724285673,BTM Layout,5701,Rs.5K-8K,Eggetarian,3,1,6,7,4
+2127,Nandini Pillai,Female,IT,+91 7789226605,BTM Layout,4019,Rs.3K-5K,Eggetarian,3,2,9,7,7
+2128,Kartik Malhotra,Male,ECE,+91 7888091245,Whitefield,15804,Rs.12K-20K,Vegetarian,2,9,3,10,9
+2129,Lokesh Tripathi,Male,IT,+91 8412273600,Koramangala,8990,Rs.8K-12K,Non-Vegetarian,1,3,7,7,4
+2130,Bharti Yadav,Female,ECE,+91 9716467404,Indiranagar,11824,Rs.8K-12K,Eggetarian,3,1,7,8,7
+2131,Seema Verma,Female,CSE,+91 7688962331,BTM Layout,19919,Rs.12K-20K,Vegetarian,1,1,6,8,7
+2132,Divya Ghosh,Female,CSE,+91 9638577630,Koramangala,13097,Rs.12K-20K,Non-Vegetarian,3,3,8,7,7
+2133,Vikram Bose,Male,Mech,+91 6315816454,Whitefield,18261,Rs.12K-20K,Eggetarian,2,1,7,2,2
+2134,Jyoti Tripathi,Female,ECE,+91 6854947088,BTM Layout,16096,Rs.12K-20K,Vegetarian,1,1,9,2,3
+2135,Dhruv Mitra,Male,Mech,+91 6697940975,Whitefield,10431,Rs.8K-12K,Non-Vegetarian,3,9,6,1,3
+2136,Ankit Sen,Male,Mech,+91 9422035846,Marathahalli,4222,Rs.3K-5K,Non-Vegetarian,2,9,1,10,10
+2137,Meera Bhat,Female,CSE,+91 8459170565,Marathahalli,3390,Rs.3K-5K,Vegetarian,2,3,7,8,5
+2138,Uma Malhotra,Female,AI&DS,+91 6593059748,BTM Layout,7297,Rs.5K-8K,Non-Vegetarian,3,10,5,2,4
+2139,Shweta Tiwari,Female,AI&DS,+91 9315670876,Marathahalli,10498,Rs.8K-12K,Non-Vegetarian,1,9,5,9,8
+2140,Yamini Shetty,Female,AI&DS,+91 6890251346,Marathahalli,14597,Rs.12K-20K,Non-Vegetarian,2,3,6,9,7
+2141,Rekha Joshi,Female,Mech,+91 6180674181,HSR Layout,3709,Rs.3K-5K,Non-Vegetarian,3,4,7,7,6
+2142,Riya Mehta,Female,IT,+91 9182102503,BTM Layout,5993,Rs.5K-8K,Vegetarian,3,9,2,8,7
+2143,Naira Patel,Female,CSE,+91 8363746243,Indiranagar,17348,Rs.12K-20K,Non-Vegetarian,2,9,3,9,7
+2144,Ravi Roy,Male,ECE,+91 8298461504,Marathahalli,4870,Rs.3K-5K,Vegetarian,2,8,4,9,8
+2145,Ananya Sharma,Female,Mech,+91 8439377645,BTM Layout,4901,Rs.3K-5K,Non-Vegetarian,2,9,4,4,3
+2146,Raj Rao,Male,AI&DS,+91 7971022633,Marathahalli,10943,Rs.8K-12K,Vegetarian,1,3,7,7,7
+2147,Kiara Dubey,Female,AI&DS,+91 6409675904,Indiranagar,6955,Rs.5K-8K,Non-Vegetarian,1,2,10,1,2
+2148,Simran Sen,Female,AI&DS,+91 8460489491,Koramangala,10677,Rs.8K-12K,Non-Vegetarian,3,7,1,9,9
+2149,Savita Reddy,Female,AI&DS,+91 9934750046,HSR Layout,10517,Rs.8K-12K,Vegetarian,1,8,2,9,9
+2150,Vidya Ghosh,Female,AI&DS,+91 9545940090,Indiranagar,7786,Rs.5K-8K,Eggetarian,1,10,3,1,1
+2151,Naveen Ghosh,Male,ECE,+91 6706681697,HSR Layout,12952,Rs.12K-20K,Eggetarian,1,8,7,4,1
+2152,Vandana Roy,Female,CSE,+91 8400015680,Whitefield,10962,Rs.8K-12K,Vegetarian,2,1,7,9,4
+2153,Savita Singh,Female,IT,+91 6258795967,Koramangala,12259,Rs.12K-20K,Non-Vegetarian,2,7,4,9,10
+2154,Geeta Kumar,Female,AI&DS,+91 8842377282,BTM Layout,7676,Rs.5K-8K,Non-Vegetarian,1,10,4,10,8
+2155,Aarav Verma,Male,Mech,+91 7988586594,Marathahalli,16357,Rs.12K-20K,Non-Vegetarian,1,8,3,8,9
+2156,Aditya Yadav,Male,IT,+91 9290174590,Koramangala,5844,Rs.5K-8K,Vegetarian,1,1,7,1,3
+2157,Nisha Malhotra,Female,ECE,+91 8164216179,HSR Layout,7996,Rs.5K-8K,Eggetarian,2,1,8,7,5
+2158,Renu Nair,Female,AI&DS,+91 8915209592,Whitefield,12384,Rs.12K-20K,Non-Vegetarian,3,9,6,4,2
+2159,Lokesh Ghosh,Male,Civil,+91 7034950478,Indiranagar,11512,Rs.8K-12K,Eggetarian,1,9,7,4,4
+2160,Siddharth Bhat,Male,Mech,+91 6873324617,HSR Layout,4888,Rs.3K-5K,Non-Vegetarian,2,2,8,1,2
+2161,Arjun Iyer,Male,IT,+91 9110867299,Marathahalli,6963,Rs.5K-8K,Vegetarian,2,1,7,7,4
+2162,Tanvi Dey,Female,AI&DS,+91 6878377268,Whitefield,7261,Rs.5K-8K,Non-Vegetarian,2,9,7,3,3
+2163,Vandana Mehta,Female,AI&DS,+91 8016446001,HSR Layout,6518,Rs.5K-8K,Non-Vegetarian,2,2,8,3,1
+2164,Divya Joshi,Female,ECE,+91 7416760621,Indiranagar,16667,Rs.12K-20K,Vegetarian,2,2,9,9,7
+2165,Priya Patel,Female,AI&DS,+91 8347398593,Whitefield,7220,Rs.5K-8K,Eggetarian,1,1,7,1,2
+2166,Aarav Pillai,Male,IT,+91 7958546579,HSR Layout,4265,Rs.3K-5K,Eggetarian,3,10,3,1,5
+2167,Vivaan Das,Male,AI&DS,+91 7180002487,BTM Layout,8070,Rs.8K-12K,Eggetarian,3,8,3,1,5
+2168,Sunil Das,Male,Mech,+91 9501319147,HSR Layout,11256,Rs.8K-12K,Non-Vegetarian,1,4,9,9,5
+2169,Harsh Kumar,Male,AI&DS,+91 9686023201,Marathahalli,3191,Rs.3K-5K,Non-Vegetarian,2,9,3,1,2
+2170,Nandini Pandey,Female,IT,+91 9684911471,Koramangala,3470,Rs.3K-5K,Vegetarian,3,10,3,1,3
+2171,Karan Mishra,Male,CSE,+91 6889737338,BTM Layout,7919,Rs.5K-8K,Non-Vegetarian,1,2,7,9,7
+2172,Geeta Patel,Female,AI&DS,+91 9110258855,Koramangala,8219,Rs.8K-12K,Vegetarian,2,8,3,10,10
+2173,Saanvi Kamath,Female,Civil,+91 8107125807,Indiranagar,10265,Rs.8K-12K,Non-Vegetarian,2,9,5,10,10
+2174,Tanvi Singh,Female,CSE,+91 7150931110,Indiranagar,17830,Rs.12K-20K,Eggetarian,1,9,5,1,1
+2175,Pallavi Tripathi,Female,Mech,+91 6439080604,Indiranagar,3383,Rs.3K-5K,Non-Vegetarian,2,9,3,1,3
+2176,Geeta Sharma,Female,Mech,+91 7777300707,Whitefield,4484,Rs.3K-5K,Eggetarian,1,9,4,8,8
+2177,Seema Joshi,Female,CSE,+91 6718150313,Whitefield,9724,Rs.8K-12K,Non-Vegetarian,2,2,9,1,3
+2178,Suresh Mehta,Male,ECE,+91 7308496151,Koramangala,14721,Rs.12K-20K,Eggetarian,2,3,8,8,5
+2179,Manish Mishra,Male,ECE,+91 7710425977,HSR Layout,11010,Rs.8K-12K,Eggetarian,3,9,5,4,3
+2180,Sunita Reddy,Female,IT,+91 6858134663,BTM Layout,7792,Rs.5K-8K,Eggetarian,1,9,6,3,1
+2181,Rashmita Chatterjee,Female,ECE,+91 8720157590,HSR Layout,6034,Rs.5K-8K,Eggetarian,1,9,3,4,5
+2182,Shweta Mukherjee,Female,AI&DS,+91 7796587803,BTM Layout,4619,Rs.3K-5K,Non-Vegetarian,3,1,8,3,3
+2183,Naveen Dubey,Male,Mech,+91 9419786374,Whitefield,3021,Rs.3K-5K,Vegetarian,2,9,5,10,8
+2184,Vandana Sen,Female,AI&DS,+91 8149484176,Indiranagar,8100,Rs.8K-12K,Non-Vegetarian,1,3,6,7,5
+2185,Vandana Pillai,Female,IT,+91 8074151376,HSR Layout,12799,Rs.12K-20K,Non-Vegetarian,3,10,3,3,1
+2186,Vivaan Pandey,Male,AI&DS,+91 6469709122,Marathahalli,5999,Rs.5K-8K,Eggetarian,1,8,5,9,10
+2187,Lata Nair,Female,ECE,+91 8750835809,Marathahalli,15240,Rs.12K-20K,Vegetarian,3,8,5,9,10
+2188,Nikhil Kamath,Male,AI&DS,+91 9473467988,Koramangala,4637,Rs.3K-5K,Eggetarian,1,2,7,8,4
+2189,Madhuri Mishra,Female,IT,+91 7669192918,BTM Layout,16808,Rs.12K-20K,Vegetarian,2,4,7,9,6
+2190,Piyush Patel,Male,Mech,+91 6506211965,Indiranagar,8479,Rs.8K-12K,Vegetarian,2,10,4,9,8
+2191,Sneha Chatterjee,Female,AI&DS,+91 8308026394,Marathahalli,7272,Rs.5K-8K,Vegetarian,2,2,7,8,7
+2192,Diya Chatterjee,Female,ECE,+91 6838070464,Whitefield,15351,Rs.12K-20K,Eggetarian,2,10,6,2,1
+2193,Kunal Gupta,Male,Mech,+91 6965695131,BTM Layout,8688,Rs.8K-12K,Non-Vegetarian,3,9,7,1,3
+2194,Shweta Gupta,Female,AI&DS,+91 7895655026,BTM Layout,6741,Rs.5K-8K,Vegetarian,3,8,1,9,9
+2195,Gaurav Reddy,Male,ECE,+91 6901419863,Marathahalli,11526,Rs.8K-12K,Eggetarian,3,9,7,2,2
+2196,Naveen Tiwari,Male,IT,+91 7207250969,BTM Layout,6325,Rs.5K-8K,Eggetarian,2,3,6,7,7
+2197,Nandini Patel,Female,AI&DS,+91 9719780110,Indiranagar,5599,Rs.5K-8K,Eggetarian,2,10,4,9,8
+2198,Lata Yadav,Female,Civil,+91 7941289685,Koramangala,3825,Rs.3K-5K,Eggetarian,3,3,9,8,6
+2199,Shivam Rawat,Male,AI&DS,+91 8852475970,Marathahalli,11482,Rs.8K-12K,Vegetarian,3,8,6,2,4
+2200,Swati Bose,Female,IT,+91 6560898021,BTM Layout,18457,Rs.12K-20K,Non-Vegetarian,3,1,7,3,2
+2201,Aarav Chauhan,Male,ECE,+91 8957479588,Indiranagar,8651,Rs.8K-12K,Non-Vegetarian,1,2,6,8,5
+2202,Tara Menon,Female,Civil,+91 8815287619,Koramangala,3002,Rs.3K-5K,Vegetarian,2,1,8,3,3
+2203,Kartik Pandey,Male,CSE,+91 9695133408,Whitefield,6956,Rs.5K-8K,Vegetarian,1,8,3,1,3
+2204,Riya Shukla,Female,ECE,+91 8755548556,Marathahalli,5280,Rs.5K-8K,Eggetarian,3,3,8,2,2
+2205,Ankit Mitra,Male,AI&DS,+91 7900024225,Indiranagar,4836,Rs.3K-5K,Vegetarian,1,2,10,2,2
+2206,Yash Kamath,Male,AI&DS,+91 6361845490,Indiranagar,11190,Rs.8K-12K,Eggetarian,1,1,7,9,7
+2207,Yash Chatterjee,Male,Civil,+91 6484230338,Indiranagar,17227,Rs.12K-20K,Eggetarian,1,2,9,1,2
+2208,Sunita Ghosh,Female,AI&DS,+91 6742042844,Whitefield,3034,Rs.3K-5K,Eggetarian,1,2,8,1,1
+2209,Usha Shetty,Female,AI&DS,+91 9060718580,BTM Layout,15469,Rs.12K-20K,Eggetarian,2,2,8,2,1
+2210,Ishaan Ghosh,Male,Mech,+91 7678179022,BTM Layout,3635,Rs.3K-5K,Eggetarian,2,7,2,8,10
+2211,Harsh Nair,Male,CSE,+91 6054395639,Marathahalli,7873,Rs.5K-8K,Vegetarian,1,9,7,3,2
+2212,Tara Reddy,Female,CSE,+91 7438861395,Whitefield,10145,Rs.8K-12K,Vegetarian,2,1,10,3,2
+2213,Vikram Rao,Male,Mech,+91 9321422584,Koramangala,3467,Rs.3K-5K,Eggetarian,3,1,7,1,1
+2214,Meera Nair,Female,CSE,+91 8374536171,Marathahalli,13839,Rs.12K-20K,Non-Vegetarian,1,9,5,1,5
+2215,Karan Menon,Male,IT,+91 6197261797,Whitefield,4796,Rs.3K-5K,Non-Vegetarian,2,2,6,9,7
+2216,Kunal Roy,Male,Mech,+91 9176454660,BTM Layout,6900,Rs.5K-8K,Non-Vegetarian,3,8,7,2,2
+2217,Saanvi Menon,Female,IT,+91 7487878460,Marathahalli,4947,Rs.3K-5K,Non-Vegetarian,1,10,3,2,5
+2218,Seema Malhotra,Female,ECE,+91 9056524105,HSR Layout,3089,Rs.3K-5K,Vegetarian,3,9,6,1,5
+2219,Chetan Dubey,Male,CSE,+91 8542172946,BTM Layout,3890,Rs.3K-5K,Eggetarian,1,9,3,9,10
+2220,Neha Thakur,Female,Mech,+91 7003352579,Koramangala,5557,Rs.5K-8K,Eggetarian,1,7,2,9,10
+2221,Vishal Tiwari,Male,ECE,+91 7940969078,HSR Layout,14170,Rs.12K-20K,Vegetarian,1,9,3,10,7
+2222,Meera Kumar,Female,AI&DS,+91 7066091571,HSR Layout,16206,Rs.12K-20K,Vegetarian,3,3,7,7,7
+2223,Reyansh Rawat,Male,CSE,+91 9452710250,Indiranagar,3024,Rs.3K-5K,Vegetarian,1,8,4,9,7
+2224,Pari Verma,Female,CSE,+91 6849331223,Marathahalli,18629,Rs.12K-20K,Vegetarian,1,1,6,8,4
+2225,Tara Dubey,Female,Civil,+91 6126625486,Whitefield,13415,Rs.12K-20K,Non-Vegetarian,1,8,3,9,8
+2226,Ravi Shetty,Male,Civil,+91 7769493025,BTM Layout,12499,Rs.12K-20K,Vegetarian,2,8,6,2,5
+2227,Siddharth Tiwari,Male,Civil,+91 8338686158,Whitefield,11738,Rs.8K-12K,Eggetarian,3,3,8,7,4
+2228,Vihaan Banerjee,Male,IT,+91 7535162577,BTM Layout,5653,Rs.5K-8K,Vegetarian,1,9,5,10,7
+2229,Naveen Shukla,Male,Mech,+91 9604432125,Indiranagar,5968,Rs.5K-8K,Eggetarian,2,1,8,9,5
+2230,Deepak Ghosh,Male,Mech,+91 6754010571,Whitefield,3184,Rs.3K-5K,Vegetarian,1,7,5,9,7
+2231,Krishna Pandey,Male,AI&DS,+91 6762184337,HSR Layout,3044,Rs.3K-5K,Vegetarian,3,7,5,9,7
+2232,Renu Mehta,Female,Mech,+91 7296071464,HSR Layout,5645,Rs.5K-8K,Eggetarian,2,10,4,3,2
+2233,Siddharth Naidu,Male,AI&DS,+91 8957078297,HSR Layout,5727,Rs.5K-8K,Eggetarian,1,8,4,3,5
+2234,Deepak Joshi,Male,Mech,+91 9201225242,Koramangala,6420,Rs.5K-8K,Non-Vegetarian,1,2,9,2,1
+2235,Kartik Singh,Male,Mech,+91 7102337464,Koramangala,3098,Rs.3K-5K,Non-Vegetarian,2,8,6,4,4
+2236,Naira Banerjee,Female,IT,+91 8795892991,Marathahalli,5666,Rs.5K-8K,Non-Vegetarian,1,2,7,2,2
+2237,Siddharth Rao,Male,AI&DS,+91 6322132937,BTM Layout,3692,Rs.3K-5K,Eggetarian,3,9,6,2,5
+2238,Vihaan Mehta,Male,Mech,+91 6882832553,Indiranagar,17711,Rs.12K-20K,Eggetarian,3,2,8,7,4
+2239,Meera Malhotra,Female,Mech,+91 6016387764,Whitefield,3603,Rs.3K-5K,Eggetarian,3,8,3,1,2
+2240,Kiara Banerjee,Female,CSE,+91 7324367744,Whitefield,16006,Rs.12K-20K,Eggetarian,2,3,10,1,2
+2241,Sneha Thakur,Female,CSE,+91 7130847576,Whitefield,14157,Rs.12K-20K,Vegetarian,2,1,7,1,3
+2242,Vidya Sen,Female,ECE,+91 8377702111,Koramangala,18704,Rs.12K-20K,Eggetarian,2,8,6,3,1
+2243,Rajesh Roy,Male,IT,+91 9437908017,BTM Layout,5492,Rs.5K-8K,Non-Vegetarian,1,7,2,8,7
+2244,Pooja Joshi,Female,IT,+91 7107613491,HSR Layout,3178,Rs.3K-5K,Non-Vegetarian,3,10,5,4,1
+2245,Myra Yadav,Female,ECE,+91 6636513034,BTM Layout,4894,Rs.3K-5K,Vegetarian,3,1,9,2,2
+2246,Komal Dey,Female,Civil,+91 6160913827,Indiranagar,9650,Rs.8K-12K,Vegetarian,3,8,6,3,2
+2247,Ankita Tripathi,Female,CSE,+91 7451123758,HSR Layout,9148,Rs.8K-12K,Non-Vegetarian,3,1,8,2,3
+2248,Ankita Yadav,Female,IT,+91 8772636814,Koramangala,6809,Rs.5K-8K,Vegetarian,2,9,3,2,1
+2249,Komal Verma,Female,ECE,+91 6827912699,Indiranagar,3510,Rs.3K-5K,Vegetarian,2,2,8,2,2
+2250,Lata Reddy,Female,AI&DS,+91 6131267917,Indiranagar,10002,Rs.8K-12K,Eggetarian,2,8,5,10,9
+2251,Uma Kumar,Female,Mech,+91 6117898946,Whitefield,3333,Rs.3K-5K,Eggetarian,1,9,2,10,8
+2252,Usha Verma,Female,AI&DS,+91 6038216544,Whitefield,7651,Rs.5K-8K,Vegetarian,3,1,9,3,2
+2253,Shalini Shukla,Female,Mech,+91 7971381481,HSR Layout,6911,Rs.5K-8K,Non-Vegetarian,3,9,3,3,5
+2254,Simran Mehta,Female,Civil,+91 6274178050,HSR Layout,10623,Rs.8K-12K,Non-Vegetarian,2,3,7,7,5
+2255,Poonam Mishra,Female,AI&DS,+91 6600992653,Marathahalli,4342,Rs.3K-5K,Non-Vegetarian,2,4,9,8,4
+2256,Raj Menon,Male,AI&DS,+91 8296240256,Marathahalli,19426,Rs.12K-20K,Eggetarian,2,1,7,8,4
+2257,Tara Bose,Female,ECE,+91 8919342370,HSR Layout,3455,Rs.3K-5K,Non-Vegetarian,1,4,8,8,6
+2258,Myra Banerjee,Female,CSE,+91 9721131196,Marathahalli,3967,Rs.3K-5K,Vegetarian,3,2,10,3,2
+2259,Krishna Iyer,Male,Mech,+91 7757465583,BTM Layout,13173,Rs.12K-20K,Non-Vegetarian,3,7,4,9,8
+2260,Aarav Thakur,Male,Mech,+91 6899290419,Indiranagar,7005,Rs.5K-8K,Vegetarian,1,9,6,4,4
+2261,Vishal Iyer,Male,AI&DS,+91 7602458325,Koramangala,11100,Rs.8K-12K,Eggetarian,1,2,7,3,3
+2262,Simran Patel,Female,CSE,+91 7647336743,BTM Layout,8684,Rs.8K-12K,Vegetarian,1,2,9,9,6
+2263,Raj Chatterjee,Male,Mech,+91 9221721910,Indiranagar,6652,Rs.5K-8K,Vegetarian,1,10,2,8,7
+2264,Ayaan Tripathi,Male,AI&DS,+91 8794049663,Koramangala,19180,Rs.12K-20K,Eggetarian,2,3,7,3,1
+2265,Vihaan Reddy,Male,Civil,+91 7908315331,Whitefield,4120,Rs.3K-5K,Non-Vegetarian,2,8,1,9,10
+2266,Manju Mehta,Female,IT,+91 9087077414,BTM Layout,3578,Rs.3K-5K,Vegetarian,1,9,7,2,3
+2267,Akash Yadav,Male,Mech,+91 6688799369,Koramangala,19457,Rs.12K-20K,Vegetarian,3,10,4,1,1
+2268,Naveen Chatterjee,Male,ECE,+91 6386902139,BTM Layout,4481,Rs.3K-5K,Eggetarian,1,1,9,8,6
+2269,Karan Gupta,Male,Mech,+91 7547110201,Marathahalli,9744,Rs.8K-12K,Eggetarian,1,1,7,1,3
+2270,Rekha Thakur,Female,IT,+91 7152380087,Marathahalli,3763,Rs.3K-5K,Non-Vegetarian,1,2,10,2,2
+2271,Manju Rao,Female,CSE,+91 6569132884,Marathahalli,4930,Rs.3K-5K,Vegetarian,1,10,7,4,2
+2272,Bharti Verma,Female,AI&DS,+91 9779357509,Marathahalli,6978,Rs.5K-8K,Non-Vegetarian,1,10,3,1,3
+2273,Varun Das,Male,AI&DS,+91 8476688619,Marathahalli,7743,Rs.5K-8K,Non-Vegetarian,3,2,8,2,2
+2274,Meera Bose,Female,IT,+91 6234359689,Koramangala,7070,Rs.5K-8K,Non-Vegetarian,2,7,4,9,8
+2275,Aadhya Mukherjee,Female,ECE,+91 8364360455,Marathahalli,15303,Rs.12K-20K,Vegetarian,1,10,7,4,1
+2276,Neha Reddy,Female,Civil,+91 9200776977,Marathahalli,3210,Rs.3K-5K,Non-Vegetarian,2,3,7,1,3
+2277,Usha Bose,Female,ECE,+91 8811468334,Marathahalli,19785,Rs.12K-20K,Non-Vegetarian,2,1,10,2,3
+2278,Shubha Tripathi,Female,AI&DS,+91 7943612110,Koramangala,4555,Rs.3K-5K,Eggetarian,1,2,9,3,2
+2279,Savita Mehta,Female,CSE,+91 9852057916,Indiranagar,13150,Rs.12K-20K,Eggetarian,3,8,5,2,2
+2280,Nisha Rawat,Female,ECE,+91 9078580665,HSR Layout,4550,Rs.3K-5K,Non-Vegetarian,1,2,10,3,3
+2281,Deepak Sharma,Male,IT,+91 9162014755,Koramangala,18871,Rs.12K-20K,Eggetarian,2,9,5,8,8
+2282,Usha Shukla,Female,Civil,+91 8615607979,Marathahalli,6120,Rs.5K-8K,Non-Vegetarian,2,4,7,7,7
+2283,Savita Bose,Female,Mech,+91 9057477077,Marathahalli,5822,Rs.5K-8K,Vegetarian,3,3,7,9,5
+2284,Shubha Reddy,Female,Mech,+91 8414975110,Whitefield,17523,Rs.12K-20K,Eggetarian,3,3,6,9,4
+2285,Vihaan Malhotra,Male,ECE,+91 7146662918,Indiranagar,10799,Rs.8K-12K,Non-Vegetarian,1,2,9,1,3
+2286,Naira Mitra,Female,AI&DS,+91 9176096024,BTM Layout,7650,Rs.5K-8K,Eggetarian,2,10,3,10,7
+2287,Manju Mishra,Female,IT,+91 6231078662,Koramangala,8831,Rs.8K-12K,Eggetarian,2,10,3,10,8
+2288,Kunal Thakur,Male,ECE,+91 8931997465,Koramangala,5711,Rs.5K-8K,Eggetarian,3,2,7,2,2
+2289,Rohan Sen,Male,Mech,+91 6024245671,HSR Layout,17813,Rs.12K-20K,Vegetarian,1,8,5,8,9
+2290,Pari Mishra,Female,IT,+91 6944729659,Indiranagar,4610,Rs.3K-5K,Eggetarian,1,10,3,3,2
+2291,Swati Tripathi,Female,Mech,+91 6938215334,BTM Layout,16598,Rs.12K-20K,Eggetarian,1,3,9,2,1
+2292,Aditya Mishra,Male,Civil,+91 9933899809,Koramangala,14101,Rs.12K-20K,Eggetarian,3,1,8,9,7
+2293,Nandini Iyer,Female,Mech,+91 8207160929,Koramangala,3342,Rs.3K-5K,Eggetarian,3,3,7,1,3
+2294,Piyush Chauhan,Male,CSE,+91 6882957524,BTM Layout,17296,Rs.12K-20K,Vegetarian,3,7,4,10,9
+2295,Vihaan Nair,Male,Mech,+91 8396953414,Koramangala,6059,Rs.5K-8K,Non-Vegetarian,2,9,6,3,1
+2296,Vishal Sharma,Male,AI&DS,+91 9093603451,BTM Layout,4548,Rs.3K-5K,Eggetarian,3,2,7,2,3
+2297,Archana Kumar,Female,Mech,+91 9286827811,Whitefield,15236,Rs.12K-20K,Eggetarian,1,9,7,2,2
+2298,Lata Joshi,Female,Mech,+91 8908934292,Marathahalli,11921,Rs.8K-12K,Vegetarian,3,8,1,8,10
+2299,Harsh Pillai,Male,AI&DS,+91 9184419679,Marathahalli,8867,Rs.8K-12K,Non-Vegetarian,3,7,2,8,9
+2300,Mohan Roy,Male,CSE,+91 9656682429,BTM Layout,17281,Rs.12K-20K,Eggetarian,1,1,8,7,5
+2301,Swati Tiwari,Female,ECE,+91 8883192498,Marathahalli,5409,Rs.5K-8K,Non-Vegetarian,3,1,9,2,2
+2302,Savita Sen,Female,ECE,+91 8429027360,BTM Layout,11308,Rs.8K-12K,Non-Vegetarian,2,8,3,8,8
+2303,Riya Pandey,Female,Civil,+91 7987918631,Whitefield,11173,Rs.8K-12K,Non-Vegetarian,2,1,7,2,1
+2304,Pranav Singh,Male,AI&DS,+91 6323840346,Koramangala,4664,Rs.3K-5K,Eggetarian,3,9,3,3,5
+2305,Nandini Joshi,Female,Mech,+91 7685767569,Indiranagar,8548,Rs.8K-12K,Non-Vegetarian,3,2,9,3,1
+2306,Lokesh Mukherjee,Male,ECE,+91 7916502228,Indiranagar,7319,Rs.5K-8K,Eggetarian,3,9,4,9,7
+2307,Shreya Tripathi,Female,ECE,+91 6183860832,Marathahalli,7121,Rs.5K-8K,Non-Vegetarian,2,9,3,1,3
+2308,Uma Hegde,Female,IT,+91 8337965699,BTM Layout,6542,Rs.5K-8K,Eggetarian,2,1,8,8,5
+2309,Rekha Chatterjee,Female,Civil,+91 9810374469,BTM Layout,4027,Rs.3K-5K,Vegetarian,2,7,1,10,9
+2310,Rohan Tripathi,Male,IT,+91 9080791678,Koramangala,6698,Rs.5K-8K,Non-Vegetarian,3,2,10,2,1
+2311,Saanvi Bhat,Female,CSE,+91 6549262370,BTM Layout,5551,Rs.5K-8K,Eggetarian,3,2,8,1,1
+2312,Amit Dubey,Male,IT,+91 8420663750,Marathahalli,4799,Rs.3K-5K,Eggetarian,3,1,7,8,7
+2313,Rahul Yadav,Male,IT,+91 6612943949,BTM Layout,7552,Rs.5K-8K,Eggetarian,3,1,8,8,4
+2314,Saanvi Iyer,Female,IT,+91 9691918197,BTM Layout,18770,Rs.12K-20K,Vegetarian,3,1,10,3,3
+2315,Sai Banerjee,Male,AI&DS,+91 6559758111,BTM Layout,4836,Rs.3K-5K,Eggetarian,3,9,5,1,5
+2316,Yamini Shukla,Female,Mech,+91 8529942267,Marathahalli,3871,Rs.3K-5K,Vegetarian,2,9,3,3,5
+2317,Shreya Iyer,Female,CSE,+91 9045771064,Marathahalli,4183,Rs.3K-5K,Eggetarian,1,1,8,3,2
+2318,Ishaan Chauhan,Male,AI&DS,+91 8514145814,HSR Layout,11501,Rs.8K-12K,Eggetarian,2,3,9,7,7
+2319,Sneha Tripathi,Female,IT,+91 8383326135,Whitefield,9256,Rs.8K-12K,Eggetarian,2,9,3,2,4
+2320,Reyansh Pillai,Male,IT,+91 7720395994,HSR Layout,3329,Rs.3K-5K,Non-Vegetarian,3,1,8,2,3
+2321,Pranav Menon,Male,Mech,+91 6343768060,BTM Layout,4483,Rs.3K-5K,Non-Vegetarian,2,1,7,9,7
+2322,Mohan Das,Male,Mech,+91 6836429847,Koramangala,7519,Rs.5K-8K,Vegetarian,3,2,8,3,1
+2323,Aman Dubey,Male,Mech,+91 8876176605,Whitefield,16801,Rs.12K-20K,Vegetarian,3,2,7,1,3
+2324,Rekha Kamath,Female,ECE,+91 8604310993,Indiranagar,19616,Rs.12K-20K,Non-Vegetarian,3,1,8,2,3
+2325,Rajesh Shetty,Male,Mech,+91 6502549822,BTM Layout,11588,Rs.8K-12K,Eggetarian,3,4,9,9,7
+2326,Yamini Rawat,Female,AI&DS,+91 7978779220,BTM Layout,3987,Rs.3K-5K,Vegetarian,2,1,8,3,3
+2327,Manju Tiwari,Female,IT,+91 8300607428,Koramangala,9016,Rs.8K-12K,Non-Vegetarian,1,9,3,2,4
+2328,Naveen Kamath,Male,ECE,+91 9204716713,Marathahalli,7043,Rs.5K-8K,Eggetarian,1,9,2,9,8
+2329,Sunil Tiwari,Male,ECE,+91 9345515321,Koramangala,4884,Rs.3K-5K,Vegetarian,3,8,7,1,4
+2330,Seema Roy,Female,Mech,+91 8107992942,Indiranagar,9629,Rs.8K-12K,Vegetarian,3,8,5,9,10
+2331,Rajesh Tiwari,Male,Civil,+91 9695390421,Marathahalli,6872,Rs.5K-8K,Vegetarian,3,9,3,1,2
+2332,Dhruv Tripathi,Male,IT,+91 9701583308,HSR Layout,7246,Rs.5K-8K,Non-Vegetarian,1,3,8,8,5
+2333,Ankit Tripathi,Male,Mech,+91 9669302613,Whitefield,9846,Rs.8K-12K,Vegetarian,3,10,2,8,9
+2334,Geeta Iyer,Female,ECE,+91 9436134704,Marathahalli,6937,Rs.5K-8K,Vegetarian,1,9,4,3,4
+2335,Abhishek Mehta,Male,AI&DS,+91 6701548051,Koramangala,6041,Rs.5K-8K,Non-Vegetarian,3,1,9,2,2
+2336,Rekha Verma,Female,Civil,+91 6520711069,HSR Layout,7362,Rs.5K-8K,Eggetarian,3,9,3,9,10
+2337,Kiara Shukla,Female,IT,+91 7230609389,Whitefield,5686,Rs.5K-8K,Eggetarian,2,9,3,1,2
+2338,Neha Shetty,Female,AI&DS,+91 7148785172,BTM Layout,14222,Rs.12K-20K,Non-Vegetarian,2,9,4,2,1
+2339,Mohan Hegde,Male,AI&DS,+91 9009470378,Marathahalli,3431,Rs.3K-5K,Vegetarian,2,1,7,2,3
+2340,Madhuri Kumar,Female,CSE,+91 7127223900,BTM Layout,5345,Rs.5K-8K,Eggetarian,2,1,7,9,6
+2341,Krishna Das,Male,ECE,+91 6122712790,Koramangala,11524,Rs.8K-12K,Non-Vegetarian,2,10,7,4,2
+2342,Suresh Roy,Male,Civil,+91 8248242739,Marathahalli,11722,Rs.8K-12K,Non-Vegetarian,2,7,4,9,9
+2343,Harsh Sharma,Male,CSE,+91 8247626139,Indiranagar,9174,Rs.8K-12K,Non-Vegetarian,3,2,10,2,2
+2344,Divya Dey,Female,ECE,+91 9422089886,Koramangala,8772,Rs.8K-12K,Non-Vegetarian,3,10,4,2,4
+2345,Pranav Kumar,Male,Civil,+91 8685741915,Indiranagar,9166,Rs.8K-12K,Eggetarian,3,3,7,7,5
+2346,Sunil Thakur,Male,Mech,+91 9008506904,BTM Layout,13538,Rs.12K-20K,Non-Vegetarian,1,8,5,8,8
+2347,Ankita Patel,Female,AI&DS,+91 7882985094,Marathahalli,3476,Rs.3K-5K,Vegetarian,1,1,8,2,2
+2348,Sunita Rawat,Female,AI&DS,+91 9399143287,Koramangala,8328,Rs.8K-12K,Vegetarian,1,3,6,9,7
+2349,Geeta Thakur,Female,ECE,+91 9168049525,Koramangala,6887,Rs.5K-8K,Eggetarian,1,9,4,10,9
+2350,Chetan Gupta,Male,AI&DS,+91 8360427902,BTM Layout,3518,Rs.3K-5K,Non-Vegetarian,3,2,8,7,5
+2351,Chetan Chauhan,Male,Mech,+91 6064715310,Indiranagar,10394,Rs.8K-12K,Vegetarian,2,8,1,10,10
+2352,Vikram Kumar,Male,ECE,+91 6677309706,Whitefield,4404,Rs.3K-5K,Eggetarian,2,1,9,3,1
+2353,Krishna Chatterjee,Male,ECE,+91 7360386030,BTM Layout,11299,Rs.8K-12K,Non-Vegetarian,3,7,4,9,8
+2354,Deepak Thakur,Male,IT,+91 7265789564,BTM Layout,13554,Rs.12K-20K,Eggetarian,1,2,9,8,5
+2355,Gaurav Shetty,Male,Mech,+91 8326179846,HSR Layout,12005,Rs.12K-20K,Eggetarian,3,8,3,3,5
+2356,Mohan Ghosh,Male,Civil,+91 6815483101,BTM Layout,18272,Rs.12K-20K,Eggetarian,1,2,9,9,6
+2357,Aditya Patel,Male,ECE,+91 9751622928,Koramangala,5438,Rs.5K-8K,Non-Vegetarian,1,1,10,3,2
+2358,Aadhya Tripathi,Female,ECE,+91 8602550993,Marathahalli,3026,Rs.3K-5K,Vegetarian,3,9,6,1,3
+2359,Sunita Malhotra,Female,IT,+91 7141669467,BTM Layout,4503,Rs.3K-5K,Vegetarian,2,1,7,1,3
+2360,Pooja Iyer,Female,IT,+91 8821263164,Indiranagar,7287,Rs.5K-8K,Eggetarian,3,9,7,3,4
+2361,Naira Rao,Female,ECE,+91 8362083683,Whitefield,10693,Rs.8K-12K,Vegetarian,3,9,5,3,3
+2362,Tara Mishra,Female,IT,+91 7033895513,BTM Layout,6536,Rs.5K-8K,Eggetarian,3,2,9,8,7
+2363,Kunal Dey,Male,CSE,+91 8223115272,Indiranagar,8026,Rs.8K-12K,Non-Vegetarian,1,9,1,10,9
+2364,Reyansh Gupta,Male,Civil,+91 7527529840,Indiranagar,6085,Rs.5K-8K,Non-Vegetarian,3,8,3,9,7
+2365,Shivam Singh,Male,AI&DS,+91 7394541743,Whitefield,6999,Rs.5K-8K,Eggetarian,3,3,9,1,3
+2366,Kiara Malhotra,Female,Mech,+91 7494348846,Whitefield,19620,Rs.12K-20K,Vegetarian,1,3,10,1,2
+2367,Shweta Roy,Female,ECE,+91 7403731150,BTM Layout,5627,Rs.5K-8K,Vegetarian,3,9,7,1,2
+2368,Meera Patel,Female,Mech,+91 6354528565,Whitefield,4122,Rs.3K-5K,Non-Vegetarian,2,2,10,3,1
+2369,Jyoti Iyer,Female,Civil,+91 7697881328,Marathahalli,7298,Rs.5K-8K,Eggetarian,3,7,1,9,10
+2370,Ayaan Yadav,Male,Civil,+91 7568812602,HSR Layout,6313,Rs.5K-8K,Non-Vegetarian,3,2,8,2,3
+2371,Bharti Joshi,Female,Civil,+91 6192747606,Indiranagar,7807,Rs.5K-8K,Non-Vegetarian,1,1,7,1,3
+2372,Diya Pandey,Female,AI&DS,+91 9454359624,Koramangala,9843,Rs.8K-12K,Non-Vegetarian,1,2,7,7,6
+2373,Kartik Verma,Male,Civil,+91 8503987156,Marathahalli,3523,Rs.3K-5K,Vegetarian,1,2,8,7,7
+2374,Arjun Shukla,Male,AI&DS,+91 7165269194,Marathahalli,11540,Rs.8K-12K,Vegetarian,1,4,7,8,4
+2375,Archana Ghosh,Female,CSE,+91 6800656591,Indiranagar,16593,Rs.12K-20K,Eggetarian,1,1,9,2,2
+2376,Vivaan Tiwari,Male,AI&DS,+91 7511455193,HSR Layout,8967,Rs.8K-12K,Eggetarian,2,3,9,2,1
+2377,Kavya Joshi,Female,Mech,+91 9853338653,Whitefield,5359,Rs.5K-8K,Eggetarian,2,8,2,10,8
+2378,Archana Pandey,Female,Civil,+91 8328876246,Indiranagar,7672,Rs.5K-8K,Vegetarian,3,7,3,10,8
+2379,Rohan Mishra,Male,CSE,+91 8393758362,BTM Layout,3377,Rs.3K-5K,Non-Vegetarian,1,1,10,2,2
+2380,Meera Iyer,Female,CSE,+91 6564985269,Indiranagar,4561,Rs.3K-5K,Eggetarian,3,1,7,7,4
+2381,Riya Mukherjee,Female,IT,+91 8013323898,Marathahalli,8753,Rs.8K-12K,Non-Vegetarian,2,8,4,2,2
+2382,Aman Yadav,Male,ECE,+91 9188440541,Marathahalli,5837,Rs.5K-8K,Vegetarian,1,9,5,4,2
+2383,Ramesh Shukla,Male,AI&DS,+91 7343884495,Whitefield,4066,Rs.3K-5K,Vegetarian,2,9,4,4,1
+2384,Dev Shetty,Male,Civil,+91 7709568319,HSR Layout,9889,Rs.8K-12K,Vegetarian,2,1,7,8,7
+2385,Karan Sen,Male,AI&DS,+91 8346800656,Indiranagar,15387,Rs.12K-20K,Non-Vegetarian,2,1,10,3,3
+2386,Kiara Hegde,Female,Mech,+91 8970903722,Marathahalli,7942,Rs.5K-8K,Eggetarian,1,1,10,3,2
+2387,Tara Mukherjee,Female,IT,+91 6686763846,Whitefield,12359,Rs.12K-20K,Vegetarian,2,7,2,8,7
+2388,Tara Thakur,Female,Mech,+91 8690594504,Indiranagar,4840,Rs.3K-5K,Vegetarian,1,2,9,1,2
+2389,Shweta Sharma,Female,IT,+91 9791180178,Whitefield,5888,Rs.5K-8K,Eggetarian,3,10,6,4,1
+2390,Yash Bose,Male,Mech,+91 8661874865,Marathahalli,5200,Rs.5K-8K,Vegetarian,1,3,9,1,1
+2391,Swati Kumar,Female,CSE,+91 6467668878,Whitefield,5660,Rs.5K-8K,Eggetarian,2,8,5,9,7
+2392,Neha Tripathi,Female,Civil,+91 9523010269,Koramangala,18908,Rs.12K-20K,Eggetarian,1,3,7,7,6
+2393,Madhuri Pillai,Female,AI&DS,+91 6897867121,BTM Layout,3223,Rs.3K-5K,Eggetarian,3,2,9,2,3
+2394,Madhuri Roy,Female,IT,+91 7519788533,Indiranagar,16257,Rs.12K-20K,Eggetarian,3,10,4,2,3
+2395,Ayaan Verma,Male,Civil,+91 8686333429,Koramangala,7520,Rs.5K-8K,Non-Vegetarian,2,1,9,3,3
+2396,Kartik Shetty,Male,Mech,+91 9393863868,Koramangala,9229,Rs.8K-12K,Eggetarian,3,1,6,9,6
+2397,Karan Iyer,Male,Mech,+91 9581252407,HSR Layout,19505,Rs.12K-20K,Non-Vegetarian,1,9,2,10,10
+2398,Vandana Yadav,Female,AI&DS,+91 6240613868,BTM Layout,10314,Rs.8K-12K,Eggetarian,3,1,7,9,6
+2399,Pari Joshi,Female,Mech,+91 9610947195,Koramangala,9536,Rs.8K-12K,Eggetarian,3,10,5,9,8
+2400,Shubha Mishra,Female,AI&DS,+91 6135842149,HSR Layout,12711,Rs.12K-20K,Non-Vegetarian,1,3,8,7,6
+2401,Ananya Iyer,Female,CSE,+91 7905995222,BTM Layout,4636,Rs.3K-5K,Non-Vegetarian,3,8,3,9,9
+2402,Neeraj Mehta,Male,IT,+91 8906478622,Indiranagar,7967,Rs.5K-8K,Vegetarian,2,9,3,3,1
+2403,Raj Rawat,Male,CSE,+91 6442823293,BTM Layout,8092,Rs.8K-12K,Eggetarian,2,8,2,8,9
+2404,Yamini Thakur,Female,AI&DS,+91 6505306513,HSR Layout,5645,Rs.5K-8K,Non-Vegetarian,1,2,7,1,3
+2405,Ankita Joshi,Female,AI&DS,+91 9453165900,HSR Layout,5701,Rs.5K-8K,Vegetarian,2,3,6,7,4
+2406,Reyansh Shukla,Male,CSE,+91 6369880788,Whitefield,13466,Rs.12K-20K,Eggetarian,3,10,5,3,2
+2407,Lokesh Rawat,Male,IT,+91 6566056427,Koramangala,12796,Rs.12K-20K,Non-Vegetarian,2,10,4,2,2
+2408,Sunita Dubey,Female,ECE,+91 9004821901,Marathahalli,11230,Rs.8K-12K,Non-Vegetarian,2,8,3,4,1
+2409,Priya Shetty,Female,Mech,+91 8596051033,BTM Layout,7080,Rs.5K-8K,Vegetarian,2,1,7,2,3
+2410,Tanvi Mitra,Female,ECE,+91 8353423112,Indiranagar,15144,Rs.12K-20K,Vegetarian,2,10,5,9,10
+2411,Shweta Bhat,Female,ECE,+91 8845897967,Marathahalli,4514,Rs.3K-5K,Eggetarian,3,9,7,4,3
+2412,Sneha Naidu,Female,Civil,+91 6298962512,BTM Layout,4403,Rs.3K-5K,Eggetarian,2,4,6,7,5
+2413,Lokesh Joshi,Male,AI&DS,+91 6640879683,Whitefield,9597,Rs.8K-12K,Eggetarian,3,9,4,3,3
+2414,Shalini Tiwari,Female,CSE,+91 8502793324,Koramangala,18943,Rs.12K-20K,Vegetarian,2,2,7,1,3
+2415,Myra Shetty,Female,CSE,+91 7010353136,Whitefield,17121,Rs.12K-20K,Non-Vegetarian,3,9,6,4,5
+2416,Manish Patel,Male,ECE,+91 8385517516,Whitefield,11440,Rs.8K-12K,Non-Vegetarian,1,2,7,7,4
+2417,Shivam Chatterjee,Male,AI&DS,+91 7875763024,Indiranagar,3281,Rs.3K-5K,Eggetarian,2,10,7,2,4
+2418,Geeta Tiwari,Female,ECE,+91 6797966424,Whitefield,4183,Rs.3K-5K,Non-Vegetarian,3,10,5,9,10
+2419,Ananya Gupta,Female,IT,+91 8075620820,Marathahalli,8463,Rs.8K-12K,Eggetarian,2,1,9,2,3
+2420,Yash Banerjee,Male,AI&DS,+91 9185517590,Marathahalli,4400,Rs.3K-5K,Eggetarian,3,1,8,9,4
+2421,Komal Pandey,Female,Civil,+91 7515756391,HSR Layout,8686,Rs.8K-12K,Vegetarian,3,3,6,9,7
+2422,Mohan Shetty,Male,AI&DS,+91 8681421120,Koramangala,9985,Rs.8K-12K,Vegetarian,1,1,9,1,3
+2423,Diya Reddy,Female,IT,+91 6749960739,BTM Layout,7699,Rs.5K-8K,Non-Vegetarian,2,9,2,9,8
+2424,Ishaan Dey,Male,ECE,+91 9597525665,Whitefield,18310,Rs.12K-20K,Non-Vegetarian,1,9,4,3,1
+2425,Vihaan Rao,Male,Civil,+91 7712595879,Whitefield,9950,Rs.8K-12K,Eggetarian,3,8,4,9,9
+2426,Pallavi Shukla,Female,AI&DS,+91 7355872317,BTM Layout,3199,Rs.3K-5K,Eggetarian,3,3,8,8,6
+2427,Pranav Sen,Male,Civil,+91 7980446323,Marathahalli,7752,Rs.5K-8K,Eggetarian,1,2,8,9,4
+2428,Aarav Yadav,Male,CSE,+91 8255992861,Koramangala,14879,Rs.12K-20K,Vegetarian,3,3,7,7,4
+2429,Ramesh Pillai,Male,IT,+91 8740545127,Koramangala,3176,Rs.3K-5K,Eggetarian,1,8,3,2,3
+2430,Aman Chauhan,Male,AI&DS,+91 9880036912,Marathahalli,9054,Rs.8K-12K,Vegetarian,1,1,9,8,6
+2431,Shreya Nair,Female,Civil,+91 6298064202,Whitefield,7499,Rs.5K-8K,Non-Vegetarian,1,9,4,4,2
+2432,Gaurav Hegde,Male,CSE,+91 6149726408,Koramangala,4170,Rs.3K-5K,Eggetarian,2,9,6,2,1
+2433,Savita Pandey,Female,Civil,+91 8468061102,Koramangala,15916,Rs.12K-20K,Non-Vegetarian,2,3,8,1,2
+2434,Myra Roy,Female,IT,+91 7541542479,HSR Layout,9640,Rs.8K-12K,Vegetarian,3,2,9,1,2
+2435,Sneha Bose,Female,CSE,+91 7649970409,Marathahalli,6224,Rs.5K-8K,Eggetarian,2,3,9,2,1
+2436,Uma Iyer,Female,ECE,+91 6153323006,Indiranagar,4474,Rs.3K-5K,Eggetarian,1,10,3,3,4
+2437,Saanvi Gupta,Female,Mech,+91 6240752042,HSR Layout,3830,Rs.3K-5K,Vegetarian,1,8,7,2,1
+2438,Deepak Verma,Male,Civil,+91 9896303609,BTM Layout,3497,Rs.3K-5K,Eggetarian,3,8,2,10,7
+2439,Suresh Mitra,Male,ECE,+91 9587810181,BTM Layout,4674,Rs.3K-5K,Vegetarian,1,8,3,2,4
+2440,Rashmita Roy,Female,IT,+91 6589825310,HSR Layout,5186,Rs.5K-8K,Eggetarian,1,1,6,8,5
+2441,Kartik Tripathi,Male,IT,+91 6708695913,Whitefield,7383,Rs.5K-8K,Vegetarian,1,3,10,1,1
+2442,Aarav Sharma,Male,ECE,+91 9977727965,Koramangala,9704,Rs.8K-12K,Eggetarian,2,8,2,10,9
+2443,Tanvi Nair,Female,IT,+91 8970715367,Koramangala,7937,Rs.5K-8K,Non-Vegetarian,3,2,9,2,2
+2444,Dev Reddy,Male,IT,+91 6410959012,BTM Layout,11533,Rs.8K-12K,Eggetarian,3,8,2,9,7
+2445,Piyush Banerjee,Male,Civil,+91 6757305041,Indiranagar,3110,Rs.3K-5K,Eggetarian,2,2,9,8,6
+2446,Shweta Nair,Female,ECE,+91 9373662535,Koramangala,16218,Rs.12K-20K,Vegetarian,1,9,4,10,9
+2447,Kavya Reddy,Female,Mech,+91 6978316519,Koramangala,6689,Rs.5K-8K,Vegetarian,2,7,4,10,10
+2448,Meera Pillai,Female,IT,+91 7954170921,Indiranagar,15059,Rs.12K-20K,Vegetarian,2,9,3,9,8
+2449,Kartik Roy,Male,CSE,+91 7205185682,Indiranagar,4744,Rs.3K-5K,Non-Vegetarian,2,9,5,2,3
+2450,Naveen Bose,Male,ECE,+91 6371404423,Whitefield,19063,Rs.12K-20K,Vegetarian,3,10,5,1,4
+2451,Yash Mishra,Male,Civil,+91 8488791944,Indiranagar,7349,Rs.5K-8K,Vegetarian,2,1,10,3,3
+2452,Preeti Mehta,Female,Civil,+91 8127233070,Indiranagar,4143,Rs.3K-5K,Vegetarian,3,8,4,3,3
+2453,Vivaan Banerjee,Male,AI&DS,+91 7309263254,Indiranagar,19028,Rs.12K-20K,Eggetarian,3,1,10,1,3
+2454,Lata Rawat,Female,AI&DS,+91 8720442203,Koramangala,3788,Rs.3K-5K,Eggetarian,2,2,10,2,3
+2455,Piyush Kumar,Male,IT,+91 9783210125,HSR Layout,4054,Rs.3K-5K,Eggetarian,2,1,10,2,2
+2456,Sunita Nair,Female,AI&DS,+91 8399986722,Marathahalli,4148,Rs.3K-5K,Eggetarian,1,9,2,10,7
+2457,Dhruv Tiwari,Male,Mech,+91 8162799360,Marathahalli,14270,Rs.12K-20K,Vegetarian,1,2,9,8,4
+2458,Pallavi Mitra,Female,Mech,+91 9435560957,Marathahalli,3385,Rs.3K-5K,Non-Vegetarian,1,1,8,2,1
+2459,Myra Joshi,Female,Civil,+91 6646384280,Indiranagar,3600,Rs.3K-5K,Non-Vegetarian,3,9,3,9,10
+2460,Kunal Iyer,Male,CSE,+91 6094646547,Indiranagar,9686,Rs.8K-12K,Eggetarian,2,4,9,8,6
+2461,Priya Hegde,Female,ECE,+91 8079808343,HSR Layout,11152,Rs.8K-12K,Vegetarian,1,3,9,7,5
+2462,Sneha Nair,Female,AI&DS,+91 8975807892,Marathahalli,5660,Rs.5K-8K,Vegetarian,1,1,8,2,2
+2463,Tarun Gupta,Male,AI&DS,+91 7361263098,HSR Layout,6527,Rs.5K-8K,Non-Vegetarian,3,9,3,8,7
+2464,Yamini Joshi,Female,Civil,+91 9984919149,HSR Layout,5017,Rs.5K-8K,Eggetarian,3,3,9,8,5
+2465,Swati Reddy,Female,AI&DS,+91 8057208724,Koramangala,7777,Rs.5K-8K,Eggetarian,1,1,9,9,5
+2466,Dhruv Malhotra,Male,IT,+91 8754416885,Indiranagar,6138,Rs.5K-8K,Vegetarian,1,3,10,3,3
+2467,Pooja Chatterjee,Female,Mech,+91 8590603471,BTM Layout,4860,Rs.3K-5K,Eggetarian,2,8,6,3,4
+2468,Rekha Tiwari,Female,Mech,+91 7913734517,BTM Layout,3441,Rs.3K-5K,Eggetarian,2,10,5,2,4
+2469,Riya Sen,Female,IT,+91 6369702097,Indiranagar,6242,Rs.5K-8K,Non-Vegetarian,3,1,9,7,4
+2470,Manju Nair,Female,IT,+91 7984790140,Marathahalli,5816,Rs.5K-8K,Vegetarian,2,3,6,8,6
+2471,Kavya Verma,Female,CSE,+91 6661527911,HSR Layout,11915,Rs.8K-12K,Eggetarian,3,8,5,4,2
+2472,Vivaan Reddy,Male,Mech,+91 8117634585,Koramangala,10380,Rs.8K-12K,Non-Vegetarian,3,10,6,1,3
+2473,Pranav Rao,Male,IT,+91 6251300243,Indiranagar,9888,Rs.8K-12K,Eggetarian,1,1,6,8,6
+2474,Aadhya Shetty,Female,Mech,+91 8274667646,Marathahalli,4052,Rs.3K-5K,Vegetarian,3,8,5,8,9
+2475,Naira Ghosh,Female,IT,+91 7510236617,Indiranagar,3280,Rs.3K-5K,Eggetarian,2,3,9,8,5
+2476,Rajesh Menon,Male,ECE,+91 9414957430,BTM Layout,3854,Rs.3K-5K,Non-Vegetarian,1,1,7,2,2
+2477,Riya Thakur,Female,IT,+91 8246788040,HSR Layout,7907,Rs.5K-8K,Non-Vegetarian,1,1,8,3,1
+2478,Riya Pillai,Female,ECE,+91 6337605742,Whitefield,3159,Rs.3K-5K,Vegetarian,2,9,4,1,1
+2479,Manish Reddy,Male,Mech,+91 6185892639,Koramangala,10734,Rs.8K-12K,Vegetarian,1,2,8,3,1
+2480,Meera Kamath,Female,IT,+91 7493946566,HSR Layout,7050,Rs.5K-8K,Eggetarian,3,10,5,8,7
+2481,Amit Pillai,Male,AI&DS,+91 6822690321,HSR Layout,7200,Rs.5K-8K,Vegetarian,3,1,10,2,3
+2482,Rashmita Mehta,Female,ECE,+91 9585190250,HSR Layout,15474,Rs.12K-20K,Vegetarian,3,8,1,9,7
+2483,Deepak Tripathi,Male,AI&DS,+91 7238115647,BTM Layout,3168,Rs.3K-5K,Non-Vegetarian,2,2,9,2,3
+2484,Kavya Bose,Female,Civil,+91 7248071617,Whitefield,5285,Rs.5K-8K,Non-Vegetarian,3,2,6,9,7
+2485,Pallavi Das,Female,AI&DS,+91 8905625550,Koramangala,3293,Rs.3K-5K,Non-Vegetarian,2,3,8,1,2
+2486,Pooja Dey,Female,Civil,+91 6527259496,Indiranagar,17940,Rs.12K-20K,Non-Vegetarian,2,4,8,8,7
+2487,Meera Rawat,Female,CSE,+91 6524802306,HSR Layout,16073,Rs.12K-20K,Vegetarian,3,8,1,10,7
+2488,Rashmita Verma,Female,ECE,+91 7643396139,BTM Layout,8625,Rs.8K-12K,Non-Vegetarian,3,1,10,2,1
+2489,Seema Mukherjee,Female,Mech,+91 8329753974,HSR Layout,4950,Rs.3K-5K,Vegetarian,2,1,10,2,2
+2490,Aditya Nair,Male,IT,+91 8832148790,HSR Layout,7013,Rs.5K-8K,Non-Vegetarian,1,4,9,7,7
+2491,Priya Mukherjee,Female,CSE,+91 7680985022,HSR Layout,16841,Rs.12K-20K,Non-Vegetarian,3,3,8,7,4
+2492,Vikram Tiwari,Male,AI&DS,+91 8508119100,Koramangala,9558,Rs.8K-12K,Vegetarian,2,3,9,8,4
+2493,Yash Naidu,Male,IT,+91 6364821968,Marathahalli,4779,Rs.3K-5K,Non-Vegetarian,1,1,6,9,6
+2494,Komal Mukherjee,Female,Civil,+91 7145119397,Koramangala,16816,Rs.12K-20K,Vegetarian,2,9,5,1,4
+2495,Rajesh Pandey,Male,ECE,+91 8640665603,HSR Layout,11970,Rs.8K-12K,Non-Vegetarian,1,8,7,2,3
+2496,Komal Dubey,Female,ECE,+91 8682517540,Marathahalli,4469,Rs.3K-5K,Eggetarian,1,2,6,9,7
+2497,Pari Naidu,Female,IT,+91 9453697950,HSR Layout,17435,Rs.12K-20K,Eggetarian,2,9,4,9,10
+2498,Karan Roy,Male,Civil,+91 6914625337,Marathahalli,14194,Rs.12K-20K,Eggetarian,3,8,7,2,3
+2499,Ishaan Naidu,Male,Civil,+91 7762054424,HSR Layout,4298,Rs.3K-5K,Vegetarian,2,2,7,8,5
+U1778752082,Monazir khan,Other,CSE,8219190998,Koramangala,7000,Rs.5K-8K,Vegetarian,2,5,5,5,5
+U1780691157,Monazir khan,Other,CSE,8219190990,Koramangala,7000,Rs.5K-8K,Vegetarian,2,5,5,5,5
+U1780888451,test3,Other,CSE,,Koramangala,7000,Rs.5K-8K,Vegetarian,2,5,5,5,5
+U1780898116,aman barik,Other,CSE,82101090010,Koramangala,7000,Rs.5K-8K,Vegetarian,2,5,5,5,5
+U1780900074,vikrant vir,Other,CSE,8210109012,Koramangala,7000,Rs.5K-8K,Vegetarian,2,5,5,5,5
+U1783390741,Monazir Khan,Other,CSE,,Koramangala,7000,Rs.5K-8K,Vegetarian,2,5,5,5,5
+U1783400434,Monazir Khan,Other,CSE,+918210109010,Koramangala,7000,Rs.5K-8K,Vegetarian,2,5,5,5,5
