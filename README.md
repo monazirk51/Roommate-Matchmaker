@@ -193,7 +193,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🤝 Roommate Recommendation Dashboard
+## 🤝 Hostel Recommendation Dashboard
 
 <img src="screenshots/dashboard-results.png" alt="Roommate Recommendation Dashboard" width="1000">
 
